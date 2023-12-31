@@ -1,0 +1,29 @@
+
+$primary-blue: #30BFCD;
+$secondary-blue: #CEF5FF;
+$primary-dark: #09181C;
+
+html, body, span, p, form, img, a, ul, ol, li, table, tr, td, div{
+    margin: 0;
+    padding: 0; 
+    border:none; 
+    outline:none;
+    list-style-type: none;
+}
+
+button{
+    width: 0;
+    height: 0;
+    cursor: pointer;
+}
+
+input{
+    border: none;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
